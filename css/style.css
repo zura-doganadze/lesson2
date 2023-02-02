@@ -1,0 +1,130 @@
+
+/*index.html*/
+
+* {
+    box-sizing: border-box;
+}
+hr {
+    color: #000000;
+    font-size: 1px;
+    margin-top: 15px;
+}
+
+li {
+    display: inline;
+}
+.about-header {
+    margin-left: 30px;
+}
+.contact-header {
+    margin-left: 30px;
+}
+.header-ul { 
+    margin-left: 537px;
+    margin-top: 30px;
+  }
+
+/* სექციის სტილები */
+
+
+.section{
+    display: inline-block;
+    width: 350px;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 0;
+    margin-top: 181px;
+    margin-left: 72px;    
+}
+h3 {
+    font-size: 16px;
+    margin-left: 26px;
+    margin-top: 5px;
+}
+ 
+p {
+    font-size: 16px;
+    margin-left: 26px;
+    margin-top: 18.48px;
+}
+
+.button1 {
+    margin-left: 305px;
+    margin-top: 10px;
+    margin-bottom: 290px;
+    padding-left: 26px;
+    padding-top: 6px;
+    padding-right: 26px;
+    padding-bottom: 6px;
+    font-size: 12px;
+
+ }
+.button2 {
+    margin-left: 308px;
+    margin-top: 10px;
+    margin-bottom: 290px;
+    padding-left: 26px;
+    padding-top: 6px;
+    padding-right: 26px;
+    padding-bottom: 6px;
+    font-size: 12px;
+
+}
+.button3 {
+    margin-left: 305px;
+    margin-top: 10px;
+    margin-bottom: 290px;
+    padding-left: 26px;
+    padding-top: 6px;
+    padding-right: 26px;
+    padding-bottom: 6px;
+    font-size: 12px;
+    
+}
+/* contact styles */
+
+
+.contact-us {
+    text-align: center;
+    margin-top: 183px;
+    font-size: 40px;
+}
+
+.contact-ul {
+    margin-left: 175px;
+}
+.meil {
+    display: block;
+    margin-top: 447;
+}
+.misamarti {
+    display: block;
+    margin-top: 28px;
+}
+.tel {
+    display: block;
+    margin-top: 28px;
+}
+
+
+/* about  */
+
+.about-company {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 183px;
+
+}
+
+.about-text {
+    margin-top: 117px;
+    margin-left: 175px;
+    font-size: 25px;
+    margin-right: 490px;
+}
+.about-adres {
+    margin-top: 108px;
+    margin-left: 175px;
+    font-size: 25px;
+
+}
